@@ -1,5 +1,5 @@
 * looking to contribute to BrogueCE and support SlackBuild for Slackware 15.0
-* building PBEM server--C coding and Bash scripts
+* building PBEM server on Raspberry Pi 3--C coding and Bash scripts on Slackware
 * coding coffee-cup roguelike in C/ncurses
 
 <!---
